@@ -1,0 +1,31 @@
+.soccer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    background-image: url(https://pittsburghsoccernow.com/wp-content/uploads/2022/11/World-Cup.jpg);
+    background-size: 200px 250px;
+}
+
+.qatar {
+    text-align: center;
+    font-size: 60px;
+    color: purple;
+    text-shadow: 1px 1px 10px green;
+}
+
+#image:hover {
+    transform: scaleX(-1);
+    position: relative;
+    right: 625px;
+}
+
+.stuff {
+    width: 15em;
+    word-wrap: break-word;
+    font-size: 30px;
+    color: purple;
+    text-shadow: 10px 10px 10px red;
+    text-align: center;
+}
