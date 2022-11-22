@@ -102,3 +102,22 @@
     text-align: center;
 }
 
+.kings-text {
+    font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px white;
+}
+
+.kings-header {
+    color: purple;
+    text-shadow: 1px 1px 2px white, 0 0 25px purple, 0 0 5px darkmagenta;
+    font-size: 2.5rem;
+}
+
+.kings-header-caption {
+    color: purple;
+    text-shadow: 1px 1px 2px white, 0 0 25px purple, 0 0 5px darkmagenta;
+    font-size: 1.5rem;
+}
