@@ -2,5 +2,7 @@ body{background-color: crimson;}
 h2{color: whitesmoke; text-align: center; border-style: solid; border-width: 5px;
 background-color: black; letter-spacing: 5px; font-family: Arial, Helvetica, sans-serif; font-size: 50px;
 }
-h3{color: beige; text-align: left; letter-spacing: 2px; font-size: 20px;}
-h4{ color: linen; letter-spacing: 2px; font-size: 20px;}
+h3{color: beige; text-align: center; letter-spacing: 2px; font-size: 20px;}
+h4{ color: beige; letter-spacing: 2px; font-size: 20px;}
+h5{ color: beige; text-align: left; letter-spacing: 2px; font-size: 20px;}
+p{color: beige; text-align: left;}
