@@ -1,3 +1,75 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: salmon;
+    color:rgb(14, 206, 14);
+    margin: 0;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: -2px -4px 3px rgb(88, 59, 9);
+  }
+
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1f1abc;
+    color: rgb(231, 31, 31);
+    font-size: 30px;
+    border-radius: 12px 36px 20px 79px;
+    text-shadow: 3px 3px 3px black;
+    background-image: url("https://cdn.vectorstock.com/i/1000x1000/30/29/seamless-sports-pattern-background-vector-1963029.webp");
+}
+
+.GOATifi {
+    background-image: url("https://images2.alphacoders.com/121/1214052.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px 30px 10px 100px;
+
+}
+
+
+.lat_pic {
+    margin-top: 40px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: -15px -15px 15px 35px rgb(236, 11, 225);
+
+}
+
+
+.lat_ps {
+    font-size: 19px;
+    color: rgb(54, 212, 33);
+    text-shadow: 1px 2px 1px rgb(169, 28, 221);
+}
+
+.lat_li {
+    font-size: 25px;
+    color: rgb(14, 206, 14);
+    text-shadow: -2px 15px 3px black;
+}
+
+.lat_pic:hover {
+    background-color: yellow;
+}
+
+.GOATifi:hover {
+    background-image: url("https://media0.giphy.com/media/cYRQWBrPipB7aWa4dD/200.gif?cid=ecf05e4716kv7kxzqmy7keh2mdudqxdhteagoxvte9c8j3dk&rid=200.gif&ct=g");
+    background-size: cover;
+}
+
+.header:hover {
+    background-image: url("https://media.tenor.com/G2C34OS1lBQAAAAM/soccer-faking.gif");
+    transform: rotate(45deg)
+}
+
 .soccer {
     display: flex;
     flex-wrap: wrap;
@@ -29,3 +101,4 @@
     text-shadow: 10px 10px 10px red;
     text-align: center;
 }
+
